@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import sdpprint as pprint
+import spprint as pprint
 import test.support
 import unittest
 import test.test_set
